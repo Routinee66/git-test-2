@@ -12,7 +12,13 @@
     <h1>Hello World!</h1>
     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aspernatur labore dolores ipsum nihil expedita
         voluptate, vel ipsa facere reiciendis eaque, nesciunt quasi voluptatibus ipsam placeat exercitationem dolorem
-        voluptas? Deserunt, saepe!</p>
+        voluptas? Deserunt, saepe!
+    </p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+        <li>tiga</li>
+    </ul>
 </body>
 
 </html>
